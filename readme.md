@@ -22,4 +22,5 @@
         <h2>Share QR</h2>
     </summary>
 <!-- <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_d.png?raw=true"width="20%"> -->
+<img src="https://github.com/blue-stone-j/blue-stone-j.github.io/blob/main/assets/images/bluestone.png?raw=true"width="20%">
 </details>
