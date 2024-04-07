@@ -1,6 +1,6 @@
 
 <div align="center"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=blue-stone-j&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=blue-stone-j&count_private=false&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
 </div>
 
 <div>
@@ -13,7 +13,7 @@
 
 <div>
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-stone-j&layout=compact&hide_border=true&langs_count=20" alt="language" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-stone-j&layout=compact&hide_border=true&langs_count=6&hide=fortran,Starlark,Cmake" alt="language" />
   </picture>
 </div>
 
