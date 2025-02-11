@@ -13,24 +13,9 @@
 
 <div>
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-stone-j&layout=compact&hide_border=true&langs_count=6&hide=fortran,Starlark,SCSS,JavaScript&exclude_repo=blue-stone-j.github.io" alt="language" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-stone-j&layout=compact&hide_border=true&langs_count=6&hide=fortran,Starlark,SCSS,JavaScript&exclude_repo=blue-stone-j.github.io,blue-stone-b,blue-stone-j" alt="language" />
   </picture>
 </div>
-
-<style>
-  table {
-    border-collapse: collapse; /* 折叠边框，使得相邻的边框合为一条边 */
-  }
-  table, th, td {
-    border: 1px solid black; /* 为表格及单元格指定边框样式 */
-  } 
-  td {
-    text-align: center; /* 表格体文字左对齐 */
-  }
-  caption {
-    caption-side: top; /* 确保标题位于表格上方 */
-  }
-</style>
 
 <div>
   <h2>develop plan</h2>
@@ -38,22 +23,22 @@
     <caption>plan</caption>
     <tr> <td> item </td> <td> time </td> <td> describtion </td> </tr>
     <tr> 
-    <td> compatibility </td> <td> 2024 </td> 
+    <td> compatibility </td> <td> 2025 </td> 
     <td style="text-align: left;"> 
     update repos to make sure that they can be compiled and run 
     </td> 
     </tr>
     <tr> 
-    <td> readme </td>  <td> 2024 </td> 
+    <td> readme </td>  <td> 2025 </td> 
     <td style="text-align: left;"> 
     update readme of repos
     </td> 
     </tr>
     </tr>
     <tr> 
-    <td> make </td>  <td> 2024 </td> 
+    <td> build </td>  <td> 2025 </td> 
     <td style="text-align: left;"> 
-    add make.sh to simplify complication and run
+    add build.sh to simplify compilation and run
     </td> 
     </tr>
     <tr> 
@@ -70,6 +55,7 @@
     <tbody>
     <tr> <td> operation system </td> <td> Ubuntu20.04 </td> </tr>
     <tr> <td> Boost </td> <td>  </td> </tr>
+    <tr> <td> clang </td> <td>  </td> </tr>
     <tr> <td> C++ </td> <td> 17 </td> </tr>
     <tr> <td> Ceres Solver </td> <td>  </td> </tr>
     <tr> <td> CMake </td> <td> 3.16.3 </td> </tr>
